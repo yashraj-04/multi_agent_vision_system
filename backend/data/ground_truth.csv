@@ -1,0 +1,301 @@
+image_path,true_action,scenario_tag,source
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653387172359_jpg.rf.06ada65167bfe3ac33fd2eda180b64b8.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1655168714177_jpg.rf.7d06f78880253d6fa563f7049237059f.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653386282179_jpg.rf.af77d15179e61580205844d9d3c0eb4b.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653763363982_jpg.rf.bcbad8b3456e97f15b99e22793785e6a.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655970749928_jpg.rf.01b3e23e619421124f3852c1ec23c387.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655308384393_jpg.rf.c0106b896df764cbeff3feeabb1ed345.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655306077275_jpg.rf.280cf0b78f466500c3f4df1f01e63d8a.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656609242376_jpg.rf.9552696bcf9524b9f39207776585fab9.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653758029890_jpg.rf.299b5c9863b42ac12d8d4b753243e0c8.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653759556229_jpg.rf.2a4feeadf3b7141df07e37df1087fe13.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653752660307_jpg.rf.4a4eebf610e05dc6943db214a5ded326.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653763105483_jpg.rf.f3fa87f7e4357a326fbe16c794f5ae1a.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656251336216_jpg.rf.efdc626c6c61e20d508c4e59fcc48f05.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653755330978_jpg.rf.d9c499a590f6134ac47951ee10641455.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656611711139_jpg.rf.755c034bbd7fc9180691e2d31581b704.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656021478666_jpg.rf.6f34f12fa67daa4b8c83f649bea78b30.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653409645039_jpg.rf.a767748fd604238fe1f08874dd1f9f69.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653388375495_jpg.rf.0e7ef8a7b032fe495844314dad3f0b2f.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653756655468_jpg.rf.76dcea21cb5a49570b76ca01634f79f8.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655169495647_jpg.rf.7f20eb75f78745eef86233404bbcf6b5.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655307157232_jpg.rf.d4681e646123ce29ad9a878f0ba1b1e4.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656230283055_jpg.rf.1f456ed74e01bafd2fbdcb666829b041.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656666314981_jpg.rf.4a598aed50594aef08523b6b453aceb8.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653387235265_jpg.rf.9a2ca3a0631ab6f0bf2811227d0d4312.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656253957623_jpg.rf.4f16fe276ed55c4942d2039f74fecdf1.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653757234952_jpg.rf.78a487b782b13d6582af3f1e00b5511e.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754858784_jpg.rf.72945897d34aa6a63a05e15ff1b9b818.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653411462489_jpg.rf.3c0c39ea9d8571b031ffc2e9560249dc.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754041928_jpg.rf.751e44860b5bcb16f200ae8bed997fc1.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656611860891_jpg.rf.f6adcbd64ea8e3baf65926535a6be75c.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656016790110_jpg.rf.a8fde75f1b05f1e305e653f387272e94.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655169766074_jpg.rf.81049f0550240ebdeb6950c49416741f.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656107553795_jpg.rf.75ded64c3402b90a206d7b9f452cf72c.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656611520928_jpg.rf.1452cbc944a74de896e5ac086af29653.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655970822624_jpg.rf.f74a57c3ff3ad018ac82c85fff039aae.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\images\train\frame_0004.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1655169850009_jpg.rf.ee449255f62beb37791ef9a1f736a732.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653425144950_jpg.rf.b6c8b279bec266094aa3fe4fa855dfc3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753914807_jpg.rf.cea29fedc6d92305ad5c6e5acd7f34a8.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656611366571_jpg.rf.4cfe970d8758bb0139377a1438a0bc3e.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655989808835_jpg.rf.b25457422558d9d888de86ded814eb2b.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656230510851_jpg.rf.edecd5cf8dbf14251842ed1cb91979a7.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653409133221_jpg.rf.463cea89ab0c98414943efeec4b6c0a1.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655169080271_jpg.rf.37624ec2afe2422174d3e57cbf15b91b.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1655369467462_jpg.rf.422dbad64832ff13f81c75eb874e69e9.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655989453118_jpg.rf.a3af9df717268f08511ee5e804410370.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656612457536_jpg.rf.46b6f371de5c81c7317aa0e08863292c.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653756628158_jpg.rf.74b9955a5534ffaac60444f96b797e69.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655993143728_jpg.rf.ea121aa4c22096ef8f60f15006491d49.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653757462012_jpg.rf.26ca79e73745d820b23f5a49c3e2905d.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655991671836_jpg.rf.7475344bd1e043329c9939aeb23bbee5.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655989935995_jpg.rf.30f22862bc8beb83bd25b7e4a6f0b746.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656667018145_jpg.rf.e951774eafbb42308e5d0fb27110643a.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655371713938_jpg.rf.6759cd9b4c01cf88b24a338e8d94c723.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653752492648_jpg.rf.7c7237e7b07b3b8705fb27f6dbdba3a8.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653756971376_jpg.rf.6fce0fff812a99d8e58e2278d7a7372b.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656146642804_jpg.rf.85bf4e2bcc7c5363fb93a45819e8cd08.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237666681_jpg.rf.3905a3b9ead5df0e9c103892c1706507.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656170517543_jpg.rf.74317d1ceef78c58f061c35f1f15a984.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655993120461_jpg.rf.0f1870a14f10a72e4b30c1f0d459931c.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754898125_jpg.rf.5df9335d476816783e370e49ac3d5e70.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656251789926_jpg.rf.d59c4fa5fa8b585ceee923e78a939610.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655971343661_jpg.rf.2aae45ad667dec636c49cbe846373f7c.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653344983450_jpg.rf.e4f0ade909c8bbcbc50f74ed3bb775c8.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656678940629_jpg.rf.cae2812c61fcf586b66266aa897e2af8.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655991744033_jpg.rf.dfccce5518418e21131670e5dd4adb71.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656609869832_jpg.rf.8546185b1c446abb06d4f38bb300281d.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653755212398_jpg.rf.af2f062037f146000d29cdfa6981557c.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754101103_jpg.rf.f61231a815db5153ad2da1f2f4338d96.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754052098_jpg.rf.7ad62e896443f6bcf290b77b4cc860eb.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653752548750_jpg.rf.9982c4aa6df6842220a7aba412820bbd.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653426460712_jpg.rf.63f42815ed20849806a5e082cbdb3894.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655306578992_jpg.rf.83a843412da311ca2b61867f1c0d400f.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655971275949_jpg.rf.05e8591193de6e7b1d12a2cf6af1fb54.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754916333_jpg.rf.1256a48ac39efe909ae68703bab3395a.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656609600147_jpg.rf.b63eb6304e20c2b5115ebfa2b80c233a.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653758607862_jpg.rf.0aaf5709c7ca1d76b5aa2eb10d8dc3e0.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1655307765302_jpg.rf.b1d58be06e1ecee49460e14b66b0bccf.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656169849277_jpg.rf.e9d4bbe41dde1fb4e7da13f9784f3ed8.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656146358079_jpg.rf.b6a63f08d9f3c6d32b65dc251e685d86.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653385290697_jpg.rf.3372df558e50777e947dbf850a3ac016.jpg,EMERGENCY BRAKE,occluded,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655991955827_jpg.rf.d46acbcd3ad77dfed6cfd597d9b8bd58.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653752316910_jpg.rf.2d463cc9ded32f50492a99b7a582cb65.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655992637968_jpg.rf.15043c26ce2ca7f4a2eb15ab93f5c710.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655991126945_jpg.rf.de822e7745033597048aa656754e4218.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653770641744_jpg.rf.dd06f27178f86cb2178451fbbf7d12a9.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653752330059_jpg.rf.814cefe145157e1bc6a71096337548ae.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655970398154_jpg.rf.abd8f9764ecd56c5deaaf08cfb8500ed.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656237106989_jpg.rf.ad7186890dc8b441379044d29d05476b.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753155793_jpg.rf.205c24806819216ff28790c098bcbbab.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653411303156_jpg.rf.5afceab9be22c2d55c2b1dc0b48f6a26.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754116268_jpg.rf.8dd03555d90737a30b201b4c8c8e6709.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656667901816_jpg.rf.77ab8982b68b7c7f12ac4da2be74062d.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653757005268_jpg.rf.332d1ac59aea8823cf1a3b0bbfa6e999.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653753253206_jpg.rf.a166bafd5cc02adce3727102d3cafa10.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237369959_jpg.rf.350084f90f5675d65f554cb6b1be7e0b.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656668314836_jpg.rf.a00eeeeed32084113836d0130f8c3727.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653752557809_jpg.rf.59114086cfbdfb151aceb4b2ee8ca5b1.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656146894462_jpg.rf.c76cfe7fc562ee254d23190f2c7cc6b3.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655993135908_jpg.rf.5dbfb02aa32d4430d089cd8ef7bc9f51.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655970568182_jpg.rf.d2eb4d0e5e04a76314d19ddb81397376.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653388815176_jpg.rf.1a39ce196fd7a58a68df7fbdbb775211.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753484584_jpg.rf.d079d62e1d168c68f3bab9b55c633bbb.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656253667015_jpg.rf.341ed0d50c77ff82589048f05a83fed1.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655169597461_jpg.rf.6e12cfba9df38cb50ca24a85671bc5d3.jpg,STOP,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753336423_jpg.rf.1b933eff2c353a7b009753aa45fcce0e.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655988946334_jpg.rf.a6373929bc51a8019cc5dafdad4a9401.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753317993_jpg.rf.b8525635e5a9f07b75243bae4782a5b5.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655306687235_jpg.rf.dcd27fddfc1cf0bc2ea0a5679c0b1ae4.jpg,STOP,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656610544282_jpg.rf.d7e9d730b0c230aa394543b08037227a.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655981419288_jpg.rf.138f0ad5086dbb08f3467313bed3860b.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656015458984_jpg.rf.13d0306ccfcad2a068f97fea48994ac5.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655970452780_jpg.rf.a870983a24fa74e268e8ff34de1f25dc.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753937414_jpg.rf.7c807f28f83eb160695e6dfa147fa119.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655168527611_jpg.rf.37f292db5152405e4cd7369388ce4585.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656608770588_jpg.rf.b668647dcdb592ba1a29c23fa671a476.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655981407201_jpg.rf.a2415a87c55345b4665e5bf878f65981.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655168617865_jpg.rf.d9a66d3ce7e999a48d3aa7a4b9a31994.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653420404408_jpg.rf.f0a572ba74c2c59decd8865d86f6154b.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656181667917_jpg.rf.33683ee435e2b33efb6b466bbc5af6c5.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656015165504_jpg.rf.b0f2e4877f6269bd04a3acd493f148c3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653408890906_jpg.rf.a1874b0bf8cbb54776762144810a4ada.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656146611606_jpg.rf.f9bf45ec05bbd084bf72057062904d73.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656668287719_jpg.rf.970b993940e21e779cc9fa55db51dd01.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655371798686_jpg.rf.ce4dd9957537213ae9c6ccf1f56267bc.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656612631538_jpg.rf.4ab1dab7468b51da0691bbe8137373fe.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655308613613_jpg.rf.88f672d9d0da4e12287d797ee5f2a0b4.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656251727986_jpg.rf.6ead2eb03b31fa8ccd971f21b1f9d213.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237920342_jpg.rf.19a1d9347f052f31aa12706228e454ac.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655371629362_jpg.rf.316e08c9171d5f373c16ee4d97215714.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656610380032_jpg.rf.0f3b254d55273df71377f20197b0b192.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656022178543_jpg.rf.2195ac27df792323efc4a0768eabaac0.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656610315416_jpg.rf.66510e1e610fa170c27ae286466ef347.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656015427936_jpg.rf.93a9825b8e2a37b07595b1b824478ad8.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653763965883_jpg.rf.90e5127c443888de90f9267fb43b817f.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754195953_jpg.rf.e2a1814b95512daaac67354c7b4e298f.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656254881407_jpg.rf.37a09d232eb94a6fec624f859e82441f.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656230563380_jpg.rf.6548c2f43839bf0f028f4c86bf73e970.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656181280890_jpg.rf.5da5b45a9231e0876d0f91039fb134fa.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653756574746_jpg.rf.5aa2b572722827364b5145e310c78d07.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653752794169_jpg.rf.2ec64fa5c8bcfb4125d95c20f7ac64a5.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653772470016_jpg.rf.6d4ff73843b1da1f6afa1bd107902d5b.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653386893969_jpg.rf.fab5a56b693c4211db3aea07364cd6be.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653344879953_jpg.rf.7773b7c4b47ca560fbc32f54d367b488.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656181813337_jpg.rf.7f26257cb0384ce3ce2127ad8a257d3f.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656181312306_jpg.rf.dc869d7f020ea2135485449d8ef9eb1f.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656612261443_jpg.rf.461e9ad015778deeba8218060141167d.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753870069_jpg.rf.9c6a8ae4908d98c151d8dc63249730b3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655993390517_jpg.rf.422fef0ff0a3d0c3da8c11659728df66.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655993263928_jpg.rf.de422a16c56ff0c56208b54969a1f99e.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653752165859_jpg.rf.d024479b8aa7754b791aad3d8884a878.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656147155894_jpg.rf.79bae3c5286081e3dc17f739809f1155.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237246045_jpg.rf.5edfc71b1e645393190225375242f1bc.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655369679471_jpg.rf.dbe2dd1f55f70388bf6de2ac5ffb3d2c.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656251826782_jpg.rf.6c977d8e4ff7e56e411baa62ba1340ee.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\images\train\frame_0009.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1655308714003_jpg.rf.46469471850d2b0b8059f20398355c1e.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653770296591_jpg.rf.2b2b9da1f451ef07e7833d78204c03d8.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653755127357_jpg.rf.6d46bf1d2099e17a639c298c3e6db1e8.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653388947601_jpg.rf.11a676d84bf9afed2f07a43b7f2732a9.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656170464424_jpg.rf.16914e84cc6772a6a37aac9c7b7db702.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656678224586_jpg.rf.123c4c59ccdf105de378cde377419b34.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653766990728_jpg.rf.f47fbab658c7153890bc713e9e0092eb.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656022564253_jpg.rf.07080ada5046f2851338d298114eac0d.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653410805065_jpg.rf.6af9d5c803bfed25ea6453a083ec9d95.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653757279640_jpg.rf.1677a5d445aa5a6767e31e51474eb7fb.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\images\train\frame_0001.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653755062690_jpg.rf.ada826d28662eae37bc5012d6a23c070.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656181838741_jpg.rf.388ee0d03ee382f5c4551f66f5d96278.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653753747605_jpg.rf.88a92b3aa7eab0c8a7b7c05fcb8166b4.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656230339960_jpg.rf.478aa8497d9cde70afb0b9764e22930b.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653766474289_jpg.rf.98b2dd7b68ba99997302e580e2664d22.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656680748956_jpg.rf.174438a892dd588dcc48f379543438aa.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655971490081_jpg.rf.78175981e783d968dbe5ddeb4931e22b.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656680220857_jpg.rf.aa372dde6311f37966289bd90586ee0c.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753597698_jpg.rf.a90bcdc46308d1a6bc2b317ab041c05e.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653755019735_jpg.rf.a9c459b58b9e47c3be197dc6e384d8ed.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656238304621_jpg.rf.1a1403f0e3ca4c2e61f4fea41d0730b3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653755175956_jpg.rf.d88246ecc9d3df728efde451611ebcda.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655992828904_jpg.rf.d4dcfac01307f0e4700666b9b1b3330c.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653752307127_jpg.rf.3b90667abc83923f9fd7f24b2cc73ac3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237978561_jpg.rf.afc6306e04fba208b396a61e0d7038db.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237289620_jpg.rf.d0aa8ca074ba9083a8a7b64d9309ddd3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\images\test\frame_0013.jpg,SLOW DOWN,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656612611460_jpg.rf.00980ef96a1b5e84e4e265557c04bf93.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655988889600_jpg.rf.380fc6c1fa973a1f02835cb787fdcdc0.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656170838866_jpg.rf.210babeaea4a3a240c0e9b5f08c8ceb5.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653345524539_jpg.rf.1e8118ed086b16765250ef05f5502b66.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653412932514_jpg.rf.65cd464d86c82c1836e280e0d7f2871d.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655991782656_jpg.rf.d87ca1b5c381a2416c96000d12aa5871.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655981026544_jpg.rf.3137d864cc12d692505821b4d736091e.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655307855465_jpg.rf.ce23198cd7416ad128f3d9477beaaf09.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753441199_jpg.rf.3be547ac56ede645643c14fb245341f3.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655307941073_jpg.rf.2e3951c0090ef21ca7ed477f90a10b4e.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753842113_jpg.rf.1ee0f5bcc814565257c0c87d5633ae85.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653768483511_jpg.rf.05f100c9ac0267e016ccb576b9257a86.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653755276043_jpg.rf.2dcf96b6cbf893008348ec5842d13555.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656170427348_jpg.rf.890cad2d21dd8636c827860fa68c39d8.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754035970_jpg.rf.c0912ecf713346bb91cf3eec96eca27a.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237302312_jpg.rf.5a5da82fef1280f9ea1ed9bdc4f2ddfc.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656170940054_jpg.rf.3125a5b44a98c00b7b84eb767e685cb5.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656181907606_jpg.rf.133ae2a54e7d2161135feb1094e72327.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656147573707_jpg.rf.43c75dfa865840e8c06955365d4eb8c1.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656251692175_jpg.rf.48358283a9cc6cc071f653255b0ad850.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653752602355_jpg.rf.0698f635be74997dd89f8a2583dcefef.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754520614_jpg.rf.4e9ea93c13896c5afafa4c651ed5a447.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656237167182_jpg.rf.98c222fc6cd0b48a2b0076276738fbe9.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656667275933_jpg.rf.4f7168228760a35ab91c50164a324aad.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656021569029_jpg.rf.0d4fb569cb70095080784104c8472fcf.jpg,EMERGENCY BRAKE,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656181718171_jpg.rf.7867c0002883d5ef8aa9820ae17d455e.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653345733065_jpg.rf.0997b8453b128fef16e663e36a94112f.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653758115510_jpg.rf.34cc45b139b3830922e29da879b921c8.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655981293941_jpg.rf.df26b3a9bab129215d8325fc943ed5ae.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653752689365_jpg.rf.e2738342a9e0e2a55ae53f6ac6d1595e.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653385191647_jpg.rf.030a8fe1807b9abea91d9653d812bb50.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656106848029_jpg.rf.b31530f0ea658c581584ca381b783bc4.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656231080265_jpg.rf.5322e0bee6531a547f38046d948d181c.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656146304232_jpg.rf.4fbd5627fa5aade6879e02088f1f1857.jpg,STOP,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1655370476877_jpg.rf.02ced129fbd94e9a52ec1f10ba27b322.jpg,STOP,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655308815039_jpg.rf.3c41875e591e2a78647c5784f8e7ef47.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655306247090_jpg.rf.7e5d1371700c0d9a90e43b658bb59dac.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653740138688_jpg.rf.a934d3eec71efac2551be59d4dd82428.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655989540018_jpg.rf.fa6793e26ab32564b5488936e0cf3757.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653346108551_jpg.rf.365b455cb6ebabd7fd87bcb9401f1918.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656611319921_jpg.rf.7b7746d0e417c24edd21063520d2e660.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656251887256_jpg.rf.2091dedfb0478d819c186dedc43a0d51.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655306789456_jpg.rf.1eb1de7c9d9a34136c49f43414ea04c2.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656230777718_jpg.rf.0ba768de77c29b5b3c0784f28f59ba4d.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\images\train\frame_0005.jpg,SLOW DOWN,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754062233_jpg.rf.f9da72edb6b8b1211afc371b7e0407bb.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753474914_jpg.rf.2981f91aeab0aaec6284cb8e95ff1914.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754095673_jpg.rf.345cc85cc0c87ddf265e84923f025af3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754026007_jpg.rf.adfae98364b59670af6945fa65038cdf.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754068234_jpg.rf.a2c23f7308dca55cd25f640c9ae84f9c.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655989263486_jpg.rf.24c2a035d1b2db365912e27a12a24f4e.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656611052777_jpg.rf.36e2e9c8109088bf2758e987b873c89c.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656230866805_jpg.rf.870c186eb163b737c19c1bff7b4a695d.jpg,EMERGENCY BRAKE,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655307590725_jpg.rf.76614f3837cbc2ea2c084982693b8b20.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655970828726_jpg.rf.b87c19c53ec28e1159518e958ae0d621.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656678186432_jpg.rf.a69e69e94d585cf18f03bb22a16d8543.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655168985219_jpg.rf.1fd0488c5a3098b2196bb627a18609ff.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1655169285418_jpg.rf.7c439e31e6250d2147a62802b7d0576f.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656231004901_jpg.rf.8fe77d65287d1fbbca960c1cb871df1c.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656608903537_jpg.rf.0b2dc79b291d517aa102db34261c01d6.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656147556894_jpg.rf.a8d8c3109ab7c0bfcdca9bf18d45811d.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655308198715_jpg.rf.73b1f0b01a50526efd8384fd4278c74a.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656609024976_jpg.rf.fe0b5ca8f8109759b2cc917ed71f1f7c.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656015735078_jpg.rf.60b8b716ffeb2bd00b0b789e0f7c836e.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653755160364_jpg.rf.f9797c18f069f4463583798d23a67d33.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653756744058_jpg.rf.049ce3fee9a74682587689cd05421c6d.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1655307072766_jpg.rf.3b8b260b1c9ef247d89cbdac79a7ca1e.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656022363245_jpg.rf.3c3f9887c0dc0c9d3a1a413195ddfe73.jpg,EMERGENCY BRAKE,occluded,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655991086138_jpg.rf.2bd2025bb50e3e38421357023a28285d.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656667174568_jpg.rf.8e1f2d4c60f71e71d622bbb0451de2f8.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656015934733_jpg.rf.69218ac5988183ea066bd2971d2ae24d.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656147115677_jpg.rf.425b897427fa831f14d6460d9419fa4e.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753283780_jpg.rf.da15a2feb61f8c944e3553b4edc520d5.jpg,SLOW DOWN,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653757945577_jpg.rf.f193158a8d76962b03b7b3312e598be7.jpg,EMERGENCY BRAKE,occluded,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653753753170_jpg.rf.1f331a80131726604c4caebe79a28474.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656015551126_jpg.rf.141f2e1fa8a481e405dd5eb5c8ccae9b.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655989625925_jpg.rf.38382d36c4aa1ffe77d3c419265bb132.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653771248219_jpg.rf.52980daa98b5c3bf05228cf94422b7f7.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655369101979_jpg.rf.452a557015031ef16c93772e7291f0b2.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653763621987_jpg.rf.f632498f1c5d02aae54f4354f2117735.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656679113682_jpg.rf.be46803dd99892104ff7c5907010620f.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753658298_jpg.rf.a7bbf8c1e7b7f63f99f4a67a50d5ef3b.jpg,STOP,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656230765228_jpg.rf.cd99ce68bcbd22040fd71fe45af96718.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1656609572089_jpg.rf.deabedfa49f18309a3567dc6cdc3fb2e.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653752172362_jpg.rf.13cf9a692df70460a557df08fb44111c.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653754939601_jpg.rf.ccbc7f158cc2db279d09d3ad9c7ef6e9.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656609740369_jpg.rf.391789fb3169444f85ee3055fa360a32.jpg,EMERGENCY BRAKE,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754621692_jpg.rf.f545d722941d7a70cf6cddbad2436be7.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655369195951_jpg.rf.6ffcb6589a1d0e3c41b6654feb6579aa.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653754544324_jpg.rf.6fd1a5adcac94a325a3d9ee288263275.jpg,STOP,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656107353919_jpg.rf.560c20f383d0f07a88690a6be14fc543.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656253716850_jpg.rf.8082091ccac73db9b6d4d8e8e31308a3.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653752872909_jpg.rf.e7cd29ac1afe80b92a2c50af9da09042.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\test\images\1653344614275_jpg.rf.c5fed83031a1f2c78e60f8462eb6c6e3.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1656609975955_jpg.rf.9c3694c96013ec2a2c12aa4a8d229385.jpg,SLOW DOWN,occluded,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655307506281_jpg.rf.a3849ae615cf3bf20136189ad7cc27e8.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653752613015_jpg.rf.daabd0a69d6da40faf54b64f1a67768b.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656608827137_jpg.rf.a2604b7ca75d9b012a68f8a515d49b59.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656609420575_jpg.rf.b81a7472f636c9a7a8fc2fc24573419d.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656169768363_jpg.rf.325a1275e067d0bad915acc1433bb556.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655168798450_jpg.rf.6276e22d31925ad72476ad1ccebc2adb.jpg,PROCEED,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754001180_jpg.rf.c16e3449eba0aaee7a6378a5b36ba51d.jpg,PROCEED,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653753133821_jpg.rf.139cc502a46b64b6998e048af72758d4.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653752593562_jpg.rf.6503b98ab1c63a4c0a92f7687f8d4e2c.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653754595326_jpg.rf.2d4891a82198ab7191f624260ce4e2b3.jpg,PROCEED,occluded,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\images\train\frame_0000.jpg,PROCEED,night_low_light,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655993611206_jpg.rf.af61999e175bd7536f8cb9546c9615e7.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\valid\images\1653385407548_jpg.rf.1854a39786af230c8480a579cb5d5c92.jpg,EMERGENCY BRAKE,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656146421797_jpg.rf.052091cf8a8fdb34f4705cbd7fbf2c5f.jpg,SLOW DOWN,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655971081152_jpg.rf.ddd06023a8751c65f758c685853fde67.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656254099410_jpg.rf.b04bef3772b323f53b936d9fbd8e35c3.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656170621766_jpg.rf.da6d401117c3db756c44450f58c7b2a4.jpg,SLOW DOWN,high_density,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1653387101749_jpg.rf.c9b3ee53ffe18661a64dee399e4d3231.jpg,PROCEED,blurred,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1656251777832_jpg.rf.f20e5046ab766df20f4c8a2d02f7459c.jpg,SLOW DOWN,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655971410791_jpg.rf.16013bebd2358c43df6b38b5f7b7b854.jpg,EMERGENCY BRAKE,clear_day,rule_derived
+C:\Users\Yashraj Sharma\Downloads\road traffic.v1i.yolov11\train\images\1655169399372_jpg.rf.505c0cfd90d982cd58a33e7c72592147.jpg,PROCEED,night_low_light,rule_derived

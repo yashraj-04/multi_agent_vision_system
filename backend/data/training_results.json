@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "epochs": 3,
+  "metrics": {
+    "mAP50": 0.1657,
+    "mAP50-95": 0.0914
+  },
+  "dataset_statistics": {
+    "dataset_name": "dataset",
+    "dataset_path": "C:\\Users\\Yashraj Sharma\\.gemini\\antigravity\\scratch\\multi_agent_vision_system\\backend\\data\\dataset",
+    "split_counts": {
+      "train": 494,
+      "val": 187,
+      "test": 133
+    },
+    "class_distribution": {
+      "bicycles": 82,
+      "bridges": 16,
+      "buses": 111,
+      "chimneys": 37,
+      "crosswalks": 284,
+      "fire hydrants": 94,
+      "motorcycles": 240,
+      "stairs": 51,
+      "taxis": 24,
+      "tractors": 2,
+      "traffic lights": 952,
+      "vehicles": 1272
+    },
+    "total_images": 814,
+    "classes": [
+      "bicycles",
+      "bridges",
+      "buses",
+      "chimneys",
+      "crosswalks",
+      "fire hydrants",
+      "motorcycles",
+      "stairs",
+      "taxis",
+      "tractors",
+      "traffic lights",
+      "vehicles"
+    ]
+  }
+}

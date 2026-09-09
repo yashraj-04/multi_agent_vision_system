@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: #12161f;
+    color: #f8fafc;
+    font-family: 'Gotham', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Glassmorphism & Slate Panel Utilities */
+.glass-panel {
+  background: rgba(30, 36, 48, 0.92);
+  backdrop-filter: blur(16px);
+  border: 1px solid #2d3748;
+}
+
+.glass-card {
+  background: #161b26;
+  border: 1px solid #2d3748;
+}
+
+.glow-red {
+  box-shadow: 0 0 25px rgba(204, 0, 0, 0.4);
+}
+
+.glow-sky {
+  box-shadow: 0 0 25px rgba(56, 189, 248, 0.35);
+}
+
+/* Clean Gradient Text using Tesla Red #cc0000 & Soft Off-white #f8fafc */
+.gradient-text-multivision {
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 45%, #cc0000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 30px rgba(204, 0, 0, 0.4));
+}
+
+.gradient-text-red {
+  background: linear-gradient(135deg, #cc0000 0%, #ff4d4d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Subtle Grid Pattern */
+.bg-grid-pattern {
+  background-image: 
+    linear-gradient(to right, rgba(148, 163, 184, 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(148, 163, 184, 0.06) 1px, transparent 1px);
+  background-size: 60px 60px;
+}
+
+/* Split Title Slide Keyframes */
+@keyframes slideFromLeft {
+  0% {
+    transform: translateX(-150%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideFromRight {
+  0% {
+    transform: translateX(150%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-left {
+  animation: slideFromLeft 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-slide-right {
+  animation: slideFromRight 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}

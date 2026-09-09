@@ -1,0 +1,14 @@
+path: C:\Users\Yashraj Sharma\.gemini\antigravity\scratch\multi_agent_vision_system\backend\data\dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: car
+  1: pedestrian
+  2: traffic_light_red
+  3: traffic_light_green
+  4: stop_sign
+  5: speed_limit_60
+  6: obstacle
+  7: motorcycle
+  8: bicycle

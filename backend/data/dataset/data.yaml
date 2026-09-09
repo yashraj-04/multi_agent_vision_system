@@ -1,0 +1,24 @@
+path: C:\Users\Yashraj Sharma\.gemini\antigravity\scratch\multi_agent_vision_system\backend\data\dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 12
+names:
+- bicycles
+- bridges
+- buses
+- chimneys
+- crosswalks
+- fire hydrants
+- motorcycles
+- stairs
+- taxis
+- tractors
+- traffic lights
+- vehicles
+roboflow:
+  workspace: yashraj-sharma-l9rlv
+  project: road-traffic-g4mkk
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yashraj-sharma-l9rlv/road-traffic-g4mkk/dataset/1

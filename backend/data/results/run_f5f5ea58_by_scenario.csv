@@ -1,0 +1,76 @@
+strategy,scenario,accuracy,missed_stop_rate,conflict_frame_acc,sample_count
+Majority Voting,clear_day,0.3521,0.8571,0.3521,71
+Majority Voting,blurred,0.4191,0.9714,0.4191,136
+Majority Voting,high_density,0.2286,0.96,0.2286,70
+Majority Voting,night_low_light,0.5556,1.0,0.5556,18
+Majority Voting,occluded,0.2,1.0,0.2,5
+Confidence Weighted Voting,clear_day,0.3521,0.8571,0.3521,71
+Confidence Weighted Voting,blurred,0.4191,0.9714,0.4191,136
+Confidence Weighted Voting,high_density,0.2286,0.96,0.2286,70
+Confidence Weighted Voting,night_low_light,0.5556,1.0,0.5556,18
+Confidence Weighted Voting,occluded,0.2,1.0,0.2,5
+Rule-Based Arbitration,clear_day,0.1549,0.0,0.1549,71
+Rule-Based Arbitration,blurred,0.2426,0.0,0.2426,136
+Rule-Based Arbitration,high_density,0.2143,0.0,0.2143,70
+Rule-Based Arbitration,night_low_light,0.3333,0.0,0.3333,18
+Rule-Based Arbitration,occluded,0.6,0.0,0.6,5
+Leader Election,clear_day,0.1549,0.0,0.1549,71
+Leader Election,blurred,0.2353,0.0,0.2353,136
+Leader Election,high_density,0.2143,0.0,0.2143,70
+Leader Election,night_low_light,0.3889,0.0,0.3889,18
+Leader Election,occluded,0.6,0.0,0.6,5
+Dynamic Reliability Scoring,clear_day,0.3521,0.8571,0.3521,71
+Dynamic Reliability Scoring,blurred,0.4191,0.9714,0.4191,136
+Dynamic Reliability Scoring,high_density,0.2286,0.96,0.2286,70
+Dynamic Reliability Scoring,night_low_light,0.5556,1.0,0.5556,18
+Dynamic Reliability Scoring,occluded,0.2,1.0,0.2,5
+Bayesian Fusion,clear_day,0.3521,0.8571,0.3521,71
+Bayesian Fusion,blurred,0.4191,0.9714,0.4191,136
+Bayesian Fusion,high_density,0.2286,0.96,0.2286,70
+Bayesian Fusion,night_low_light,0.5556,1.0,0.5556,18
+Bayesian Fusion,occluded,0.2,1.0,0.2,5
+Weighted Consensus,clear_day,0.3521,0.8571,0.3521,71
+Weighted Consensus,blurred,0.4191,0.9714,0.4191,136
+Weighted Consensus,high_density,0.2286,0.96,0.2286,70
+Weighted Consensus,night_low_light,0.5556,1.0,0.5556,18
+Weighted Consensus,occluded,0.2,1.0,0.2,5
+Softmax-Weighted Selection,clear_day,0.3521,0.8571,0.3521,71
+Softmax-Weighted Selection,blurred,0.4191,0.9714,0.4191,136
+Softmax-Weighted Selection,high_density,0.2286,0.96,0.2286,70
+Softmax-Weighted Selection,night_low_light,0.5556,1.0,0.5556,18
+Softmax-Weighted Selection,occluded,0.2,1.0,0.2,5
+Adaptive Reliability Learning,clear_day,0.3521,0.8571,0.3521,71
+Adaptive Reliability Learning,blurred,0.4191,0.9714,0.4191,136
+Adaptive Reliability Learning,high_density,0.2286,0.96,0.2286,70
+Adaptive Reliability Learning,night_low_light,0.5556,1.0,0.5556,18
+Adaptive Reliability Learning,occluded,0.2,1.0,0.2,5
+Dynamic Entropy-Weighted Ensemble,clear_day,0.2535,0.5,0.2535,71
+Dynamic Entropy-Weighted Ensemble,blurred,0.4265,0.5143,0.4265,136
+Dynamic Entropy-Weighted Ensemble,high_density,0.2143,0.12,0.2143,70
+Dynamic Entropy-Weighted Ensemble,night_low_light,0.5,0.6667,0.5,18
+Dynamic Entropy-Weighted Ensemble,occluded,0.0,1.0,0.0,5
+Adaptive Strategy Selection,clear_day,0.1549,0.0,0.1549,71
+Adaptive Strategy Selection,blurred,0.2426,0.0,0.2426,136
+Adaptive Strategy Selection,high_density,0.2143,0.0,0.2143,70
+Adaptive Strategy Selection,night_low_light,0.3333,0.0,0.3333,18
+Adaptive Strategy Selection,occluded,0.6,0.0,0.6,5
+Baseline: Best Single Agent (Lane Detection Agent),clear_day,0.3944,1.0,0.3944,71
+Baseline: Best Single Agent (Lane Detection Agent),blurred,0.4632,1.0,0.4632,136
+Baseline: Best Single Agent (Lane Detection Agent),high_density,0.2286,1.0,0.2286,70
+Baseline: Best Single Agent (Lane Detection Agent),night_low_light,0.6667,1.0,0.6667,18
+Baseline: Best Single Agent (Lane Detection Agent),occluded,0.2,1.0,0.2,5
+Baseline: Centralized Planner,clear_day,0.1549,0.0,0.1549,71
+Baseline: Centralized Planner,blurred,0.2426,0.0,0.2426,136
+Baseline: Centralized Planner,high_density,0.2143,0.0,0.2143,70
+Baseline: Centralized Planner,night_low_light,0.3333,0.0,0.3333,18
+Baseline: Centralized Planner,occluded,0.6,0.0,0.6,5
+Oracle Upper Bound,clear_day,0.9859,0.0714,0.9859,71
+Oracle Upper Bound,blurred,0.9559,0.1714,0.9559,136
+Oracle Upper Bound,high_density,0.8571,0.4,0.8571,70
+Oracle Upper Bound,night_low_light,1.0,0.0,1.0,18
+Oracle Upper Bound,occluded,1.0,0.0,1.0,5
+Baseline: Random Arbitration,clear_day,0.3155,0.7,0.3155,355
+Baseline: Random Arbitration,blurred,0.3941,0.7657,0.3941,680
+Baseline: Random Arbitration,high_density,0.2257,0.8,0.2257,350
+Baseline: Random Arbitration,night_low_light,0.5111,0.7333,0.5111,90
+Baseline: Random Arbitration,occluded,0.28,0.8,0.28,25
